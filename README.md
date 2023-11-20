@@ -1,10 +1,11 @@
-### Iqura Naseem
-<!-- Social icons section -->
-<p align="center">
+### Iqura Naseem<p align="center">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=1&color=F72292&random=false&width=435&lines=Welcome+to+my+page!" alt="Example Usage - README Typing SVG">
 </p>
+
+<!-- Social icons section -->
+### Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iquranaseem/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iquranaseem@gmail.com)
