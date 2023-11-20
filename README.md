@@ -8,7 +8,7 @@
 #### :computer: Proficient Programming languages and tools: 
 <p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/html5/html5-ar21.svg](https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png)"</code> 
+<code><img width="10%" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"</code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
