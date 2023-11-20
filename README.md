@@ -6,8 +6,7 @@
 
 
 #### :computer: Proficient Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=QinghanHuang&show_icons=true&hide_border=true" />	
+<p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
