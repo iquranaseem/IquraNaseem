@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=1&color=000000&random=false&width=435&lines=Welcome+to+my+page!" alt="Example Usage - README Typing SVG">
 </p>
 
-#### :computer: Proficient Programming languages and tools: 
+#### :computer: Proficient Programming languages: 
 <p>	
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> 
@@ -22,8 +22,6 @@
 <br />
 
 <p>
-  
-<!-- Social icons section -->
   
 ### Contact Me
 
